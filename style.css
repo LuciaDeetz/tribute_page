@@ -34,10 +34,11 @@ img {
 	margin: auto;
 }
 
-ul, blockquote {
+ul {
 	text-align: left;
 	max-width: 900px;
 	margin: auto;
+	list-style-type: none;
 }
 
 li {
